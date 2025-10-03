@@ -17,7 +17,7 @@ This project fetches real-time weather data from [WeatherAPI](https://www.weathe
 
 ## 📸 Screenshots
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot]
 <img width="1901" height="989" alt="Screenshot 2025-10-03 135937" src="https://github.com/user-attachments/assets/cc0c64a1-aa00-4eb2-a52d-60525da4a8f2" />
 
 ---
